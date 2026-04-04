@@ -23,7 +23,7 @@ Balaji took this concept and extended it significantly, embedding it within his 
 
 ### Balaji's Extension: The Idea Maze as Historical Heuristic
 
-In The Network State (Ch 2.3), Balaji positions the idea maze as one of 13+ "historical heuristics" - models for understanding history that function like different programming paradigms for analyzing the same dataset. The idea maze sits alongside the political determinist model, the technological determinist model, the Wright-Fisher model, and others.
+In The [[network-state-ten-components|Network State]] (Ch 2.3), Balaji positions the idea maze as one of 13+ "historical heuristics" - models for understanding history that function like different programming paradigms for analyzing the same dataset. The idea maze sits alongside the political determinist model, the technological determinist model, the Wright-Fisher model, and others.
 
 What makes the idea maze unique among these heuristics is its relationship to the "Train Crash" model:
 

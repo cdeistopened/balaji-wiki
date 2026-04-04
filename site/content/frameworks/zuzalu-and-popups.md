@@ -39,7 +39,7 @@ The progression of internet-native creation:
 
 ### The 2025 Network State Conference
 
-The scale of the movement: the 2025 Network State Conference featured crypto executives (Vitalik Buterin, Brian Armstrong), government representatives (Singapore, El Salvador, UAE), and venture capitalists discussing startup societies and charter cities. This is no longer fringe.
+The scale of the movement: the 2025 [[network-state-ten-components|Network State]] Conference featured crypto executives (Vitalik Buterin, Brian Armstrong), government representatives (Singapore, El Salvador, UAE), and venture capitalists discussing startup societies and charter cities. This is no longer fringe.
 
 ### Network School as Popup Template
 

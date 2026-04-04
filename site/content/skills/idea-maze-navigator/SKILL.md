@@ -40,7 +40,7 @@ Using the founder's answers and your own knowledge, construct the full idea maze
 **Layer 3: The Doors (Technology & Market Shifts)**
 - What doors were previously closed that are now open?
 - What doors are currently closing?
-- Apply Balaji's Idea Maze heuristic from Ch 2.3 of The Network State:
+- Apply Balaji's Idea Maze heuristic from Ch 2.3 of The [[network-state-ten-components|Network State]]:
 
 > "Just because a business proposition didn't work in the past doesn't necessarily mean it won't work today. The technological and social prerequisites may have dramatically changed, and doors previously closed may now have opened. Unlike the laws of physics, society is not time invariant."
 > -- Balaji Srinivasan, The Network State, Ch 2.3

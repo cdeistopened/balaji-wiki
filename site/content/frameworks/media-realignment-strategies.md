@@ -30,7 +30,7 @@ This creates predictable pathologies:
 Balaji's insight from the political power analysis applies directly:
 
 > "The political mascot model: history is written by winners pretending to be acting on behalf of losers."
-> -- Balaji Srinivasan, The Network State, Ch 2.3
+> -- Balaji Srinivasan, The [[network-state-ten-components|Network State]], Ch 2.3
 
 Applied to media: outlets claim to serve "the public" or "democracy" while actually serving their own economic and political interests. The key test: does the outlet's coverage pattern match its claimed mission, or its revenue model?
 

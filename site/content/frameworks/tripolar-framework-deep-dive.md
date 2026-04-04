@@ -19,7 +19,7 @@ When someone needs the full breakdown of the tripolar framework, wants to unders
 ### The Three Poles
 
 > "Today's world is becoming tripolar. It is NYT vs CCP vs BTC. That's the American Establishment vs the Communist Party of China vs the Global Internet."
-> -- Balaji Srinivasan, The Network State, Ch 3.1
+> -- Balaji Srinivasan, The [[network-state-ten-components|Network State]], Ch 3.1
 
 | Dimension | NYT (American Establishment) | CCP (Chinese Communist Party) | BTC (Global Internet) |
 |-----------|------------------------------|-------------------------------|----------------------|

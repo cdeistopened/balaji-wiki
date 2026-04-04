@@ -12,7 +12,7 @@ Identify where a community sits on the startup-society-to-network-state progress
 Balaji maps community building to startup building. Just as you don't found a public company directly, you don't found a network state directly. There are waypoints.
 
 > "You found a startup society and hope to scale it into a network state that achieves diplomatic recognition from a pre-existing government, just as you don't found a public company directly, but instead found a startup company and hope to scale it into a public company that achieves 'diplomatic recognition' from a pre-existing exchange like the NASDAQ."
-> -- Balaji Srinivasan, The Network State, Ch 5.3
+> -- Balaji Srinivasan, The [[network-state-ten-components|Network State]], Ch 5.3
 
 The staging:
 
@@ -173,7 +173,7 @@ Deliver a structured Staging Report:
 ## Source Material
 
 - The Network State, Ch 5.3: "On Network States" (full staging model, startup analogy, waypoints, definition breakdown)
-- The Network State, Ch 2.9: "The One Commandment" (startup society definition, parallel society concept, three tiers, missionary vs. mercenary)
+- The Network State, Ch 2.9: "[[one-commandment-three-tiers|The One Commandment]]" (startup society definition, parallel society concept, three tiers, missionary vs. mercenary)
 - Substack: "Popups are the New Startups" (Oct 2025) - popup as staging mechanism
 - Reference: `references/frameworks/startup-to-state-staging.md`
 - Reference: `references/frameworks/zuzalu-and-popups.md`

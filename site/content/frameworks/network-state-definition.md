@@ -19,7 +19,7 @@ You need to understand what a network state actually is - not the buzzword versi
 ### The One-Sentence Definition
 
 > "A network state is a social network with a moral innovation, a sense of national consciousness, a recognized founder, a capacity for collective action, an in-person level of civility, an integrated cryptocurrency, a consensual government limited by a social smart contract, an archipelago of crowdfunded physical territories, a virtual capital, and an on-chain census that proves a large enough population, income, and real estate footprint to attain a measure of diplomatic recognition."
-> -- Balaji Srinivasan, The Network State, Ch 5.3
+> -- Balaji Srinivasan, The [[network-state-ten-components|Network State]], Ch 5.3
 
 This definition describes the *final form* of a diplomatically recognized network state. You can't build all of this at once, just as you can't found a public company directly. You found a startup and scale.
 

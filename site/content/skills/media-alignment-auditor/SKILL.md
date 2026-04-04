@@ -87,7 +87,7 @@ Balaji's solution to media misalignment is ultimately technological: on-chain sh
 Balaji's concept from Ch 2.3 applies directly to media:
 
 > "The political mascot model: history is written by winners pretending to be acting on behalf of losers."
-> -- Balaji Srinivasan, The Network State, Ch 2.3
+> -- Balaji Srinivasan, The [[network-state-ten-components|Network State]], Ch 2.3
 
 For the outlet being evaluated:
 - Does it claim to serve a specific population (the poor, minorities, workers, consumers)?

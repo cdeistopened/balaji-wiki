@@ -12,7 +12,7 @@ Given any geopolitical event, technology, company, institution, or trend, map it
 Balaji argues that the post-Cold War "unipolar moment" (US dominance) has ended. The world is now tripolar, organized around three power centers that are networks, not just states.
 
 > "Today's world is becoming tripolar. It is NYT vs CCP vs BTC. That's the American Establishment vs the Communist Party of China vs the Global Internet."
-> -- Balaji Srinivasan, The Network State, Ch 3.1
+> -- Balaji Srinivasan, The [[network-state-ten-components|Network State]], Ch 3.1
 
 Each pole has three defining characteristics:
 

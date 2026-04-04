@@ -49,7 +49,7 @@ Scan for:
 **Apply the Idea Maze test:** Why did it fail before? Has something fundamental changed since then?
 
 > "Virtual reality was an abject failure right up to the moment it wasn't. In this way, it has followed the course charted by a few other breakout technologies. They don't evolve in an iterative way, gradually gaining usefulness. Instead, they seem hardly to advance at all, moving forward in fits and starts, through shame spirals and bankruptcies and hype and defensive crouches - until one day, in a sudden about-face, they utterly, totally win."
-> -- Quoted in The Network State, Ch 2.3
+> -- Quoted in The [[network-state-ten-components|Network State]], Ch 2.3
 
 **Key question:** What's different now that would reverse the previous failure?
 

@@ -12,7 +12,7 @@ Help a founder identify and articulate their startup society's single moral prem
 Balaji's framework sits between two failure modes: zero moral innovation (just another social network with no unifying purpose) and too much moral innovation (trying to write a complete social operating system from scratch).
 
 > "We do think you can come up with one commandment. One new moral premise. Just one specific issue where the history and science has convinced you that the establishment is wanting."
-> -- Balaji Srinivasan, The Network State, Ch 2.9
+> -- Balaji Srinivasan, The [[network-state-ten-components|Network State]], Ch 2.9
 
 The founder of a startup society is not a technology entrepreneur telling investors why their innovation is better, faster, and cheaper. They are a **moral entrepreneur** telling potential future citizens about a better way of life.
 
@@ -184,7 +184,7 @@ Deliver a structured One Commandment Brief:
 
 ## Source Material
 
-- The Network State, Ch 2.9: "The One Commandment" (full framework, all examples, three tiers, parallel society concept)
+- The Network State, Ch 2.9: "[[one-commandment-three-tiers|The One Commandment]]" (full framework, all examples, three tiers, parallel society concept)
 - The Network State, Ch 5.3: "On Network States" (network state definition, staging from startup society to network state)
 - Substack: "Popups are the New Startups" (Oct 2025) - practical examples of digital communities materializing physically
 - Reference: `references/frameworks/one-commandment-three-tiers.md`

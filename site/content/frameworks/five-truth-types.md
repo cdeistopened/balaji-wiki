@@ -29,7 +29,7 @@ Most arguments are unresolvable because the participants disagree not about the 
 **Key property:** Doesn't depend on belief or authority. Pi is 3.14159 even if every human believes otherwise.
 
 > "Tesla is more powerful than the New York Times because technological truths are ultimately more durable than political truths."
-> -- Balaji Srinivasan, The Network State, Ch 2.3
+> -- Balaji Srinivasan, The [[network-state-ten-components|Network State]], Ch 2.3
 
 ### Type 2: Technical Truth
 

@@ -123,7 +123,7 @@ Deliver a structured Physical-to-Digital Map:
 ## Source Material
 
 - The Anthology of Balaji, pp. 196-197 (physical -> intermediate digital -> native digital spectrum, all examples)
-- The Network State, Ch 5.3 (network state as native digital governance, not scanned version of nation state)
+- The [[network-state-ten-components|Network State]], Ch 5.3 (network state as native digital governance, not scanned version of nation state)
 - Substack: "All Property Becomes Cryptography" (Jul 2025) - physical assets transitioning to cryptographic security
 - Reference: `references/frameworks/physical-digital-native-spectrum.md`
 

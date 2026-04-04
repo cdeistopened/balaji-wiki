@@ -11,7 +11,7 @@ Given any claim, assertion, or piece of information, classify it into one of Bal
 
 Balaji argues that the fundamental problem in public discourse is that people treat all claims as if they are the same kind of truth. They are not. A scientific claim and a political claim require completely different verification methods, and confusing the two leads to endless unresolvable arguments.
 
-The five types, drawn from The Anthology of Balaji and The Network State:
+The five types, drawn from The Anthology of Balaji and The [[network-state-ten-components|Network State]]:
 
 ### 1. Scientific Truth
 **Definition:** Truths verified by reproducible experiment. True regardless of who believes them.

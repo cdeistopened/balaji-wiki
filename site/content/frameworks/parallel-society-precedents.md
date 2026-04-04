@@ -22,7 +22,7 @@ Balaji's argument rests on repeated historical demonstrations that parallel syst
 The most important precedent. The US did not reform the Soviet Union from within. It built a parallel system that was visibly superior.
 
 > "How did the US beat the USSR? Because it built and defended a parallel system."
-> -- Balaji Srinivasan, The Network State, Ch 2.9
+> -- Balaji Srinivasan, The [[network-state-ten-components|Network State]], Ch 2.9
 
 The competitive pressure mechanism: Soviet citizens could see (through smuggled media, Radio Free Europe, defector reports) that the American system produced higher standards of living, more personal freedom, and more innovation. The parallel system created the comparison that made the incumbent's failures undeniable.
 

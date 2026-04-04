@@ -12,7 +12,7 @@ Given any system (government, company, protocol, institution, industry, or movem
 Balaji argues that the central dynamic of our era is the tension between decentralizing forces (internet, crypto, remote work, social media) and recentralizing forces (AI surveillance, platform power, state control, regulatory capture). The answer isn't to pick a side. It's to understand the forces and build toward a "recentralized center" that represents genuine progress.
 
 > "Do you go with the failed centralization of NYT and the declining US establishment? The total decentralization of Bitcoin Maximalism? Or the totalitarian centralization of the CCP? A better answer might be: none of the above. That instead of choosing either anarchic decentralization or coercive centralization, we choose volitional recentralization."
-> -- Balaji Srinivasan, The Network State, Ch 4.7
+> -- Balaji Srinivasan, The [[network-state-ten-components|Network State]], Ch 4.7
 
 ## The Framework: Two Axes
 

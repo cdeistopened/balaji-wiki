@@ -77,7 +77,7 @@ The biggest startup opportunities exist at the Stage 2 -> Stage 3 transition poi
 Balaji's ultimate application of this framework is to governance itself. The nation state is the physical version. Digital governance tools (e-voting, digital ID, online town halls) are the scanned version. The network state is the native digital version:
 
 > "A network state is a social network with a moral innovation, a sense of national consciousness, a recognized founder, a capacity for collective action, an in-person level of civility, an integrated cryptocurrency, a consensual government limited by a social smart contract, an archipelago of crowdfunded physical territories, a virtual capital, and an on-chain census."
-> -- Balaji Srinivasan, The Network State, Ch 5.3
+> -- Balaji Srinivasan, The [[network-state-ten-components|Network State]], Ch 5.3
 
 Notice how the network state definition includes no physical-world assumptions. It doesn't start with territory (physical), or with digital government tools bolted onto existing territory (scanned). It starts with a digital community and works outward to physical manifestation - native digital governance.
 

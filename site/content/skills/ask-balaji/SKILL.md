@@ -17,7 +17,7 @@ You route questions about startup strategy, network state design, geopolitical a
 | "Where are the opportunities?" / "What should I build?" | `technology-opportunity-scanner` | Startup Strategy |
 | "Where is my industry on digital transformation?" / "Physical to digital" | `physical-to-digital-mapper` | Startup Strategy |
 | "Find me a startup idea" / "What technologies are underappreciated?" | `technology-opportunity-scanner` | Startup Strategy |
-| "Design my network state" / "How do I build a network state?" | `network-state-blueprint` | Network State |
+| "Design my network state" / "How do I build a network state?" | `network-state-blueprint` | [[network-state-ten-components|Network State]] |
 | "What should my community be about?" / "One commandment" | `one-commandment-generator` | Network State |
 | "How do I turn my event into a community?" / "Popup city planning" | `popup-to-permanent-planner` | Network State |
 | "What stage is my community at?" / "How to scale a startup society" | `startup-society-staging-planner` | Network State |

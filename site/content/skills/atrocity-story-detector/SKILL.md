@@ -12,7 +12,7 @@ Given a narrative about a crisis, threat, or bad event that is being used to jus
 Balaji draws on the concept of the "atrocity story" (from political science) and Rene Girard's "founding murder" to identify a pattern used throughout history to justify expansions of political power.
 
 > "One of the most time-honored techniques to mobilize public animosity against the enemy and to justify military action is the atrocity story. This technique, says Professor Lasswell, has been used 'with unvarying success in every conflict known to man.'"
-> -- Quoted in The Network State, Ch 2.3
+> -- Quoted in The [[network-state-ten-components|Network State]], Ch 2.3
 
 Balaji extends this beyond wartime to peacetime governance:
 

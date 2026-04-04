@@ -20,7 +20,7 @@ When someone wants to understand why institutions are fragmenting, why variance 
 ### The Internet as Centrifuge
 
 > "The internet connects people peer-to-peer. It disintermediates. In doing this it removes the middleman, the mediator, the moderator, and the mediocrity."
-> -- Balaji Srinivasan, The Network State, Ch 4.3
+> -- Balaji Srinivasan, The [[network-state-ten-components|Network State]], Ch 4.3
 
 > "One analogy is to a centrifuge. If you take a sample of biological fluid from your body and centrifuge it, you'll see a bunch of layers that were previously mixed together. Then they all get separated out. That's what the internet is doing to society, to institutions."
 > -- Balaji Srinivasan, The Network State, Ch 4.3

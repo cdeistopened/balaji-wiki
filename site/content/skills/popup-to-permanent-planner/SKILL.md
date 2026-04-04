@@ -19,7 +19,7 @@ The progression: internet companies proved that online communities could create 
 > "Begin with a popup, and get your online friends in the same place at the same time."
 > -- Balaji Srinivasan, "Popups are the New Startups" (Oct 2025)
 
-The 2025 Network State Conference demonstrated the scale: crypto executives (Vitalik Buterin, Brian Armstrong), government representatives (Singapore, El Salvador, UAE), and venture capitalists gathering to discuss startup societies and charter cities. This is no longer theoretical.
+The 2025 [[network-state-ten-components|Network State]] Conference demonstrated the scale: crypto executives (Vitalik Buterin, Brian Armstrong), government representatives (Singapore, El Salvador, UAE), and venture capitalists gathering to discuss startup societies and charter cities. This is no longer theoretical.
 
 ## The Consultation
 
@@ -173,7 +173,7 @@ Deliver a structured Popup-to-Permanent Plan:
 - Substack: "Popups are the New Startups" (Oct 2025) - core framework, popup definition, vision of 1000+ communities
 - Substack: "Network School" posts (Aug 2024, Feb 2025, Apr 2025) - application model, 4-pillar selection (Learn/Burn/Earn/Fun), 4,000 applications for 128 slots
 - The Network State, Ch 5.3: "On Network States" (network archipelago definition, crowdfunded territories, physical manifestation)
-- The Network State, Ch 2.9: "The One Commandment" (Keto Kosher as physical community, Digital Sabbath, missionary vs. mercenary)
+- The Network State, Ch 2.9: "[[one-commandment-three-tiers|The One Commandment]]" (Keto Kosher as physical community, Digital Sabbath, missionary vs. mercenary)
 - Reference: `references/frameworks/zuzalu-and-popups.md`
 - Reference: `references/frameworks/startup-to-state-staging.md`
 

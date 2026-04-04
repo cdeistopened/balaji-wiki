@@ -19,7 +19,7 @@ When someone encounters a narrative being used to justify expanded government po
 From political science, via Balaji:
 
 > "One of the most time-honored techniques to mobilize public animosity against the enemy and to justify military action is the atrocity story. This technique, says Professor Lasswell, has been used 'with unvarying success in every conflict known to man.'"
-> -- Quoted in The Network State, Ch 2.3
+> -- Quoted in The [[network-state-ten-components|Network State]], Ch 2.3
 
 Extended to peacetime:
 

@@ -12,7 +12,7 @@ Given a founder's vision, design a complete network state by walking through eve
 Balaji's definition of a network state contains 10+ interdependent components. Most people who want to "start a new country" skip straight to land acquisition or governance design. This skill forces the systematic work of building every layer.
 
 > "A network state is a social network with a moral innovation, a sense of national consciousness, a recognized founder, a capacity for collective action, an in-person level of civility, an integrated cryptocurrency, a consensual government limited by a social smart contract, an archipelago of crowdfunded physical territories, a virtual capital, and an on-chain census that proves a large enough population, income, and real estate footprint to attain a measure of diplomatic recognition."
-> -- Balaji Srinivasan, The Network State, Ch 5.3
+> -- Balaji Srinivasan, The [[network-state-ten-components|Network State]], Ch 5.3
 
 ## The Consultation
 
@@ -163,7 +163,7 @@ Equivalent to: [Pre-seed / Seed / Series B / Unicorn / Public Company]
 ## Source Material
 
 - The Network State, Ch 5.3: "On Network States" (full definition, all 10+ components, subtraction test, staging, 1-network concept)
-- The Network State, Ch 2.9: "The One Commandment" (moral innovation, three tiers, parallel society examples)
+- The Network State, Ch 2.9: "[[one-commandment-three-tiers|The One Commandment]]" (moral innovation, three tiers, parallel society examples)
 - Substack: "Popups are the New Startups" (Oct 2025) - physical manifestation of digital communities
 - Reference: `references/frameworks/network-state-ten-components.md`
 - Reference: `references/frameworks/network-state-definition.md`

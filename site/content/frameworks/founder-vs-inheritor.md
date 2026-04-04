@@ -86,7 +86,7 @@ The framework implies a lifecycle that every institution passes through:
 Network states propose a founder-led alternative to inheritor governance:
 
 > "A network state needs a recognized founder, one that people actually listen to and choose to follow by joining the community."
-> -- Balaji Srinivasan, The Network State, Ch 5.3
+> -- Balaji Srinivasan, The [[network-state-ten-components|Network State]], Ch 5.3
 
 The network state founder is selected by voluntary opt-in (a market mechanism), not by election, inheritance, or force. If the founder is incompetent, people leave. This is market discipline applied to governance - the same selection mechanism that makes Silicon Valley companies more competent than government agencies, now applied to the organization of society itself.
 

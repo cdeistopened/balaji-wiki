@@ -12,7 +12,7 @@ Given a broken institution, system, or social norm, evaluate whether building a 
 Balaji argues that the most effective way to change a broken system is often not to fight it head-on, but to build a functioning alternative that makes the original obsolete. The evidence is historical, not theoretical.
 
 > "How did the US beat the USSR? Because it built and defended a parallel system."
-> -- Balaji Srinivasan, The Network State, Ch 2.9
+> -- Balaji Srinivasan, The [[network-state-ten-components|Network State]], Ch 2.9
 
 The US didn't reform the Soviet Union from within. It built a parallel society that was so obviously better that the Soviet system collapsed under comparison. The same pattern repeats:
 
@@ -166,7 +166,7 @@ Deliver a structured Parallel Society Assessment:
 
 ## Source Material
 
-- The Network State, Ch 2.9: "The One Commandment" (parallel society concept, USSR/USA, Deng Xiaoping, all examples, three tiers)
+- The Network State, Ch 2.9: "[[one-commandment-three-tiers|The One Commandment]]" (parallel society concept, USSR/USA, Deng Xiaoping, all examples, three tiers)
 - The Network State, Ch 5.3: "On Network States" (staging model, subtraction test)
 - The Network State, Ch 4.7: "Towards a Recentralized Center" (recentralization as the goal of parallel systems)
 - Reference: `references/frameworks/parallel-society-precedents.md`

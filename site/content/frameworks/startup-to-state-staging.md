@@ -22,7 +22,7 @@ Balaji maps community building directly onto startup building:
 | **Startup Society** | Pre-seed / Idea | Has a moral premise and initial online community | 10-1,000 |
 | **Network Union** | Seed / Series A | Gains collective action capacity — can do things together, not just talk | 1,000-10,000 |
 | **Network Archipelago** | Series B / Growth | Crowdfunds physical properties connected via internet | 10,000-100,000 |
-| **Network State** | IPO / Public Company | Achieves diplomatic recognition from existing government | 100,000+ |
+| **[[network-state-ten-components|Network State]]** | IPO / Public Company | Achieves diplomatic recognition from existing government | 100,000+ |
 
 > "You found a startup society and hope to scale it into a network state that achieves diplomatic recognition from a pre-existing government, just as you don't found a public company directly, but instead found a startup company and hope to scale it into a public company that achieves 'diplomatic recognition' from a pre-existing exchange like the NASDAQ."
 > -- Balaji Srinivasan, The Network State, Ch 5.3

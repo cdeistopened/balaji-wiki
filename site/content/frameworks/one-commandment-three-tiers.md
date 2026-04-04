@@ -21,7 +21,7 @@ You're thinking about starting a community, movement, or network state and need 
 Every startup society needs a single moral premise at its core. Not a business model. Not a technology. A *moral innovation* - one specific thing the world has gotten wrong that your community is setting right.
 
 > "We do think you can come up with one commandment. One new moral premise. Just one specific issue where the history and science has convinced you that the establishment is wanting. And where you feel confident making your case in articles, videos, books, and presentations."
-> -- Balaji Srinivasan, The Network State, Ch 2.9
+> -- Balaji Srinivasan, The [[network-state-ten-components|Network State]], Ch 2.9
 
 This is not a metaphor. Balaji means it literally. The founder of a startup society is a *moral entrepreneur*, not a technology entrepreneur:
 
